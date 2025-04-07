@@ -3,7 +3,8 @@ import random
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-TOKEN = "8149028973:AAGWM4WEo0C8V8KKRKU-XaC5I4P4EAYKf6E"  # o'zing olgan tokenni shu yerga qo'y
+# Tokenni o'zingizdan oling
+TOKEN = "8149028973:AAGWM4WEo0C8V8KKRKU-XaC5I4P4EAYKf6E"  # o'zingizning tokenni shu yerga qo'y
 
 # Poza nomlari ro'yxati
 pozalar = [
