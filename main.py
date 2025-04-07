@@ -3,7 +3,7 @@ import random
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-TOKEN = "https://api.telegram.org/bot8149028973:AAGWM4WEo0C8V8KKRKU-XaC5I4P4EAYKf6E"  # o'zing olgan tokenni shu yerga qo'y
+TOKEN = "8149028973:AAGWM4WEo0C8V8KKRKU-XaC5I4P4EAYKf6E"  # o'zing olgan tokenni shu yerga qo'y
 
 # Poza nomlari ro'yxati
 pozalar = [
